@@ -1,0 +1,5 @@
+node_modules/
+*.wif
+*.key
+.env
+.env.*

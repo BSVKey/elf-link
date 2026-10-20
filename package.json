@@ -1,0 +1,16 @@
+{
+  "name": "@bsvkey/elf-link",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Bitcoin BSV payment signals over ELF and through-the-earth links: physics-based rates, compact authenticated messages, simulated links.",
+  "scripts": {
+    "test": "node --test",
+    "elf": "node run-elf.mjs",
+    "tte": "node run-tte.mjs"
+  },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "author": "Embryo Space Inc. (DBA BSVKey)",
+  "dependencies": { "@bsv/sdk": "^2.7.1" }
+}
