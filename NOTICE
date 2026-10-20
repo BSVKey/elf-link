@@ -1,0 +1,8 @@
+elf-link
+Copyright 2026 Embryo Space Inc. (DBA BSVKey)
+
+This product includes software developed by Embryo Space Inc. (DBA BSVKey).
+
+Bitcoin BSV payment signals over ELF and through-the-earth links: a physics-based rate model,
+compact authenticated messages and simulated links. Licensed under the Apache License,
+Version 2.0. lib/radio/ comes from BSVKey/dtn-custody-demo, also Apache-2.0.

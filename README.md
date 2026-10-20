@@ -1,4 +1,4 @@
-# elf-link (private)
+# elf-link
 
 Bitcoin BSV payment signals over the lowest radio bands: ELF to a submerged receiver, and
 through-the-earth (TTE) radio to and from people underground. A physics-based rate model,
@@ -79,4 +79,5 @@ run-elf.mjs         ELF scenario
 run-tte.mjs         TTE scenario
 ```
 
-Private repository. Uses only public physics and no export-controlled information.
+Apache-2.0 (see LICENSE and NOTICE). Uses only public physics and no export-controlled
+information.

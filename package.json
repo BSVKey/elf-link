@@ -10,7 +10,8 @@
     "tte": "node run-tte.mjs"
   },
   "engines": { "node": ">=18" },
-  "license": "UNLICENSED",
+  "license": "Apache-2.0",
   "author": "Embryo Space Inc. (DBA BSVKey)",
+  "repository": { "type": "git", "url": "https://github.com/BSVKey/elf-link.git" },
   "dependencies": { "@bsv/sdk": "^2.7.1" }
 }
